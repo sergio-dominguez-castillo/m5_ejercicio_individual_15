@@ -1,3 +1,8 @@
+### Modulo: M5 - Arquitectura y ciclo de vida de componentes android              ### Ejercicio Individual 15
+
+###  Objetivo
+
+### Actividad
 Instrucciones de la aplicación
 Las aplicaciones más importantes del mercado siempre dan una breve introducción la primera vez que se ingresa en ellas. Es por eso que utilizaremos DataStore para crear una vista de instrucciones que solamente se mostrarán la primera vez que se abra la aplicación.
 
@@ -18,3 +23,8 @@ Con los cambios listos debes actualizar tu repositorio de GitHub y cumplir con e
 PD: No olvides lo importante que es el manejo de datos asíncronos para que las aplicaciones no colapsen al querer ejecutar procesos en paralelo.
 
 Recuerda que si quieres utilizar animaciones, las puedes conseguir de lottiefiles.com
+
+### Analisis y reflexion del proceso de resolucion
+
+
+
