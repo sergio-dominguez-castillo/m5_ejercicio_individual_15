@@ -1,6 +1,11 @@
-### Modulo: M5 - Arquitectura y ciclo de vida de componentes android              ### Ejercicio Individual 15
+### Modulo: M5 - Arquitectura y ciclo de vida de componentes android
+
+### Ejercicio Individual 15
 
 ###  Objetivo
+aplicar navegacion en la app
+aplicar datastore, guardar acciones para no volver a mostrar un roceso o vista
+aplicar una presentacion de la app, solo la primera vez
 
 ### Actividad
 Instrucciones de la aplicación
@@ -25,6 +30,8 @@ PD: No olvides lo importante que es el manejo de datos asíncronos para que las 
 Recuerda que si quieres utilizar animaciones, las puedes conseguir de lottiefiles.com
 
 ### Analisis y reflexion del proceso de resolucion
+
+
 
 
 
